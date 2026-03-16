@@ -4,15 +4,6 @@ Análisis estadístico completo para la evaluación de riesgo en solicitudes de 
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-├── modelo_riesgo_bancario.ipynb   # Notebook principal (Python)
-├── modelo_riesgo_bancario.R       # Script equivalente en R
-├── datos.csv                      # Dataset German Credit Risk
-└── README.md
-```
-
 ---
 
 ## 🎯 Objetivo
