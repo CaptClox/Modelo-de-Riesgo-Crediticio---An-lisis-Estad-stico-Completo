@@ -143,6 +143,3 @@ jupyter lab modelo_riesgo_bancario.ipynb
 
 ---
 
-## 📄 Licencia
-
-MIT License — libre uso con atribución.
